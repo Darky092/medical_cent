@@ -51,4 +51,4 @@
 
 ## Автор
 
-Satoshi Nakamoto
+YTTY
